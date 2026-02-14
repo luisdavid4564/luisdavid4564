@@ -72,6 +72,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/snake.svg" />
+</div>
+
 
 ###
