@@ -72,9 +72,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 
 ###
