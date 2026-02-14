@@ -72,9 +72,10 @@
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/luisdavid4564/luisdavid4564/output/snake.svg" alt="Snake animation" />
 
 
 
